@@ -1,0 +1,4 @@
+Subcellular localization predictions (placeholder)
+- Signal peptide: none
+- Likely localization: cytoplasm
+- Predicted transmembrane helices: 0

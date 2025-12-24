@@ -1,0 +1,4 @@
+ProtParam results (placeholder)
+Molecular weight: 42 kDa
+Isoelectric point (pI): 6.8
+Amino acid composition: A:10, C:3, D:5, ...

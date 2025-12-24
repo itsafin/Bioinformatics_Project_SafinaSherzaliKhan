@@ -1,0 +1,4 @@
+ORF Finder results (placeholder)
+>Sequence: sample_sequence_1
+ORF 1: start 1, stop 120, length 120 aa
+ORF 2: start 150, stop 450, length 100 aa

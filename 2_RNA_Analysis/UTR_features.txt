@@ -1,0 +1,3 @@
+5' UTR: predicted upstream regulatory motifs: motif1, motif2
+3' UTR: polyadenylation signal present
+Note: placeholder file for UTR annotations
