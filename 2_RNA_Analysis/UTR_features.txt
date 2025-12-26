@@ -1,3 +1,1 @@
-5' UTR: predicted upstream regulatory motifs: motif1, motif2
-3' UTR: polyadenylation signal present
-Note: placeholder file for UTR annotations
+I am unable to open UTRscan (https://www.hsls.pitt.edu/obrc/index.php?page=URL1050422197). The page fails to load (timeout/blank/error). Please verify the site availability or provide an alternative access method.
