@@ -1,5 +1,1 @@
-Species used in phylogenetic analysis (placeholder):
-- Homo sapiens
-- Mus musculus
-- Danio rerio
-- Drosophila melanogaster
+a specie name solanum lycopersicum
